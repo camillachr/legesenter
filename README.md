@@ -1,7 +1,7 @@
-## Eksamen i Webteknologi 
+# Eksamen i Webteknologi 
 Bruker Node, Express og mySql.
 
-# Oppgaven: Sandefjord Legesenter
+## Oppgaven: Sandefjord Legesenter
 Sandefjord Lege Senter er et moderne legekontor som ønsker å tilby pasientene sine en enklere måte å bestille
 timer på. De har sett behovet for å digitalisere timebestillingssystemet sitt, som i dag foregår via telefon eller
 oppmøte. Pasientene ønsker mer fleksibilitet, og Lege Senteret har derfor besluttet å utvikle en ny
@@ -12,7 +12,7 @@ utvikler er å designe og implementere backend-løsningen. Backend-applikasjonen
 Node.js med Express som rammeverk. Applikasjonen vil koble seg til en database (f.eks. MySQL) for å
 håndtere brukerdata, timebestillinger, og administrasjon av leger og tilgjengelige tider.
 
-# Krav til oppgaven
+## Krav til oppgaven
 - Backend skal håndtere brukeregistrering og autentisering, inkludert beskyttelse av sensitive data som
 passord ved bruk av hashing (f.eks. bcrypt).
 - En middelware for autentisering skal implementeres for å beskytte bestemte ruter som kun er tilgjengelige
