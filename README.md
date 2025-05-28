@@ -19,13 +19,13 @@ passord ved bruk av hashing (f.eks. bcrypt).
 for autoriserte brukere.
 
 - Systemet skal tillate pasienter å:
-_Se tilgjengelige legetimer
-_ Bestille time
-_ Avbestille eller endre en allerede bestilt time
+  - Se tilgjengelige legetimer
+  - Bestille time
+  - Avbestille eller endre en allerede bestilt time
 
 - Legekontorets administrasjon skal kunne:
--- Legge til og administrere leger og deres tilgjengelighet
--- Se en oversikt over bestilte timer
+    - Legge til og administrere leger og deres tilgjengelighet
+    - Se en oversikt over bestilte timer
   
 - Det forventes at studentene lager en RESTful API-struktur og dokumenterer API-endepunktene.
 - Frontend og design er ikke deres ansvar, men de må tilrettelegge API-et slik at tredjeparts frontend-team
