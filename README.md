@@ -18,15 +18,15 @@ passord ved bruk av hashing (f.eks. bcrypt).
 - En middelware for autentisering skal implementeres for å beskytte bestemte ruter som kun er tilgjengelige
 for autoriserte brukere.
 
-Systemet skal tillate pasienter å:
-- Se tilgjengelige legetimer
-- Bestille time
-- Avbestille eller endre en allerede bestilt time
+- Systemet skal tillate pasienter å:
+-- Se tilgjengelige legetimer
+-- Bestille time
+-- Avbestille eller endre en allerede bestilt time
 
-Legekontorets administrasjon skal kunne:
-- Legge til og administrere leger og deres tilgjengelighet
-- Se en oversikt over bestilte timer
-- 
+- Legekontorets administrasjon skal kunne:
+-- Legge til og administrere leger og deres tilgjengelighet
+-- Se en oversikt over bestilte timer
+  
 - Det forventes at studentene lager en RESTful API-struktur og dokumenterer API-endepunktene.
 - Frontend og design er ikke deres ansvar, men de må tilrettelegge API-et slik at tredjeparts frontend-team
 kan koble seg til og bruke backend-tjenestene.
