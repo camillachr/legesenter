@@ -19,9 +19,9 @@ passord ved bruk av hashing (f.eks. bcrypt).
 for autoriserte brukere.
 
 - Systemet skal tillate pasienter å:
--- Se tilgjengelige legetimer
--- Bestille time
--- Avbestille eller endre en allerede bestilt time
+_Se tilgjengelige legetimer
+_ Bestille time
+_ Avbestille eller endre en allerede bestilt time
 
 - Legekontorets administrasjon skal kunne:
 -- Legge til og administrere leger og deres tilgjengelighet
